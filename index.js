@@ -38,7 +38,7 @@ function bingo(asciiValues) {
   return str;
 }
 // ;
-const array = [80+2,93+4,106-2,117,216/2];
+const array = [97, 110, 105, 108];
 const insert = document.getElementById('c1');
 const cright = document.createElement('p');
 cright.textContent = "Design by : " + bingo(array);

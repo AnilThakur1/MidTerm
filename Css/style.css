@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 :root{
-     --primaryColour : #FF6F00;
+     --primaryColour : #124948;
      --black : #1B2028;
 }
 body{
@@ -197,7 +197,7 @@ body{
 .footer{
     display: flex;
     flex-direction: column;
-    padding: 0 10%;
+    padding: 20px 10%;
     color: white;
     background-color: var(--primaryColour);
 }
